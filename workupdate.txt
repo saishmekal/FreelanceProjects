@@ -1,3 +1,4 @@
 closing the moksh salon client by deploying and fixing any issues with his website 
 working on another sample website which will be deployed within 2 days!.
 completed the 1st Sample today and will work on 2nd one tomorrow, and will deploy both of them tomorrow!.
+Made some small adjustments to the first website today before deployment. I might also work on the second site due to tomorrow's last exam.
