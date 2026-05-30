@@ -1,2 +1,3 @@
 started a new clients project call Vision kpixles 
 Building UI on FIGMA as per requirements taken from the client
+Updated Gallery, services and packages on the clients website
